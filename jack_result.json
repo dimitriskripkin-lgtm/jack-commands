@@ -1,7 +1,7 @@
 {
-  "uuid": "init",
-  "cmd": "echo JACK_ORACLE_READY",
+  "uuid": "test-001",
+  "cmd": "free -h",
   "status": "ok",
-  "result": "JACK_ORACLE_READY",
-  "ts": "2026-07-22 14:53:25"
+  "result": "total        used        free      shared  buff/cache   available\nMem:            10Gi       7.7Gi       179Mi        42Mi       2.9Gi       2.9Gi\nSwap:           11Gi       5.1Gi       6.9Gi",
+  "ts": "2026-07-22 14:59:04"
 }
