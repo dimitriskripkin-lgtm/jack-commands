@@ -1,1 +1,7 @@
-{"status": "waiting"}
+{
+  "uuid": "init",
+  "cmd": "echo JACK_ORACLE_READY",
+  "status": "ok",
+  "result": "JACK_ORACLE_READY",
+  "ts": "2026-07-22 14:53:25"
+}
