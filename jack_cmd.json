@@ -1,1 +1,1 @@
-{"cmd": "free -h", "uuid": "test-001", "ts": "2026-07-22 14:54"}
+{"cmd": "sv status jack_cortex jack_telegram jack_autolearn jack_publisher jack_waechter jack_oracle ollama", "uuid": "check-001", "ts": "2026-07-22 15:05"}
