@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784799002",
-  "cmd": "free -h",
+  "uuid": "btn-1784799412717",
+  "cmd": "sv status jack_cortex jack_telegram jack_autolearn jack_publisher jack_waechter jack_oracle ollama",
   "status": "ok",
-  "result": "total        used        free      shared  buff/cache   available\nMem:            10Gi       8.2Gi       449Mi        55Mi       2.2Gi       2.4Gi\nSwap:           11Gi       5.0Gi       7.0Gi",
-  "ts": "2026-07-23 11:31:13"
+  "result": "run: jack_cortex: (pid 19130) 2865s\nrun: jack_telegram: (pid 21411) 171s\nrun: jack_autolearn: (pid 7339) 176575s\nrun: jack_publisher: (pid 7337) 176575s\nrun: jack_waechter: (pid 8384) 112130s\nrun: jack_oracle: (pid 23039) 0s; down: log: 0s, normally up, want up\nrun: ollama: (pid 7342) 176575s",
+  "ts": "2026-07-23 11:38:43"
 }
