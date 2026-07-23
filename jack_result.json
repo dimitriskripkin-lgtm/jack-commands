@@ -2,6 +2,6 @@
   "uuid": "tg-1784768437",
   "cmd": "sv status jack_cortex jack_telegram jack_autolearn jack_publisher jack_waechter jack_oracle ollama",
   "status": "ok",
-  "result": "run: jack_cortex: (pid 4424) 2643s\nrun: jack_telegram: (pid 23426) 1024s\nrun: jack_autolearn: (pid 7339) 145732s\nrun: jack_publisher: (pid 7337) 145732s\nrun: jack_waechter: (pid 8384) 81287s\nrun: jack_oracle: (pid 29634) 301s; down: log: 1s, normally up, want up\nrun: ollama: (pid 7342) 145732s",
-  "ts": "2026-07-23 03:04:40"
+  "result": "run: jack_cortex: (pid 4424) 3426s\nrun: jack_telegram: (pid 9882) 8s\nrun: jack_autolearn: (pid 7339) 146515s\nrun: jack_publisher: (pid 7337) 146515s\nrun: jack_waechter: (pid 8384) 82070s\nrun: jack_oracle: (pid 29634) 1084s; down: log: 0s, normally up, want up\nrun: ollama: (pid 7342) 146515s",
+  "ts": "2026-07-23 03:17:43"
 }
