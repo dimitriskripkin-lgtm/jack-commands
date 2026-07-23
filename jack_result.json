@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784798348",
-  "cmd": "tail -10 /data/data/com.termux/files/home/jack/jack_decisions.log",
+  "uuid": "btn-1784799002",
+  "cmd": "free -h",
   "status": "ok",
-  "result": "[2026-07-23 05:20:03] PROFIL-UPDATE | 3 neue Eintraege in kortex_profile.json\n[2026-07-23 06:00:00] MEMORY-MAINTENANCE | 2 Eintraege als 'stale' markiert | Gesamt: 58 Eintraege | Stale: 12\n[2026-07-23 07:20:05] PROFIL-UPDATE | 2 neue Eintraege in kortex_profile.json\n[2026-07-23 10:42:22] WAECHTER-NEUSTART | jack_telegram\n[2026-07-23 10:42:22] SELF-IMPROVE | Analyse abgeschlossen, keine Muster gefunden.\n[2026-07-23 10:42:22] SELF-IMPROVE | Tagescheck abgeschlossen\n[2026-07-23 11:00:00] CONSOLIDATE | Session gespeichert: 10 Logs, 0 Zugriffe\n[2026-07-23 11:01:07] ORACLE-EINGANG | btn-1784: ollama list\n[2026-07-23 11:20:10] PROFIL-UPDATE | 1 neue Eintraege in kortex_profile.json\n[2026-07-23 11:21:11] ORACLE-EINGANG | btn-1784: tail -10 /data/data/com.termux/files/home/jack/jack_decisions.log",
-  "ts": "2026-07-23 11:21:11"
+  "result": "total        used        free      shared  buff/cache   available\nMem:            10Gi       8.2Gi       449Mi        55Mi       2.2Gi       2.4Gi\nSwap:           11Gi       5.0Gi       7.0Gi",
+  "ts": "2026-07-23 11:31:13"
 }
