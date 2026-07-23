@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784799412717",
-  "cmd": "sv status jack_cortex jack_telegram jack_autolearn jack_publisher jack_waechter jack_oracle ollama",
+  "uuid": "btn-1784799598207",
+  "cmd": "python3 -c \"import sys,os; sys.path.insert(0,os.path.expanduser('~/jack')); import jack_budget; print(jack_budget.status())\"",
   "status": "ok",
-  "result": "run: jack_cortex: (pid 19130) 2865s\nrun: jack_telegram: (pid 21411) 171s\nrun: jack_autolearn: (pid 7339) 176575s\nrun: jack_publisher: (pid 7337) 176575s\nrun: jack_waechter: (pid 8384) 112130s\nrun: jack_oracle: (pid 23039) 0s; down: log: 0s, normally up, want up\nrun: ollama: (pid 7342) 176575s",
-  "ts": "2026-07-23 11:38:43"
+  "result": "Heute: Text 41/300 | Vision 0/40 | Tokens 79717",
+  "ts": "2026-07-23 11:43:52"
 }
