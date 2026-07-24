@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784799598207",
-  "cmd": "python3 -c \"import sys,os; sys.path.insert(0,os.path.expanduser('~/jack')); import jack_budget; print(jack_budget.status())\"",
+  "uuid": "tg-1784857535",
+  "cmd": "free -h",
   "status": "ok",
-  "result": "Heute: Text 41/300 | Vision 0/40 | Tokens 79717",
-  "ts": "2026-07-23 11:43:52"
+  "result": "total        used        free      shared  buff/cache   available\nMem:            10Gi       8.0Gi       206Mi        45Mi       2.7Gi       2.7Gi\nSwap:           11Gi       3.6Gi       8.4Gi",
+  "ts": "2026-07-24 03:49:08"
 }
