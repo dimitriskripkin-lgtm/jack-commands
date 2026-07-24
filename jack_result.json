@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784889182965",
-  "cmd": "sv status jack_cortex jack_telegram jack_autolearn jack_publisher jack_waechter jack_oracle ollama",
+  "uuid": "btn-1784890373737",
+  "cmd": "date",
   "status": "ok",
-  "result": "run: jack_cortex: (pid 29474) 19639s\nrun: jack_telegram: (pid 31052) 106s\ndown: jack_autolearn: 32107s, normally up\ndown: jack_publisher: 32107s, normally up\nrun: jack_waechter: (pid 21282) 1613s\ndown: jack_oracle: 31748s, normally up; down: log: 1s, normally up, want up\nrun: ollama: (pid 7342) 266248s",
-  "ts": "2026-07-24 12:33:16"
+  "result": "Fri Jul 24 13:06:58 CEST 2026",
+  "ts": "2026-07-24 13:06:58"
 }
