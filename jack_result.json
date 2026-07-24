@@ -1,7 +1,7 @@
 {
-  "uuid": "btn-1784859247786",
-  "cmd": "ollama list",
+  "uuid": "btn-1784869268667",
+  "cmd": "free -h",
   "status": "ok",
-  "result": "NAME                       ID              SIZE      MODIFIED    \nnomic-embed-text:latest    0a109f422b47    274 MB    2 weeks ago    \nllama3.2:3b                a80c4f17acd5    2.0 GB    5 weeks ago",
-  "ts": "2026-07-24 04:20:37"
+  "result": "total        used        free      shared  buff/cache   available\nMem:            10Gi       8.0Gi       202Mi        48Mi       2.7Gi       2.7Gi\nSwap:           11Gi       4.4Gi       7.6Gi",
+  "ts": "2026-07-24 07:05:54"
 }
